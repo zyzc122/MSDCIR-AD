@@ -13,8 +13,8 @@ torchvision=0.18.0
 tqdm=4.66.1
 
 # Download Pretrained Models
-You can easily get all pretrained models required by inference from Baidu cloud disk. 
-Finally, these pretrained models should be organized as follows:
+You can easily get all pretrained models required by inference from Baidu cloud disk.   
+Finally, these pretrained models should be organized as follows:  
 ./checkpoint/  
 |-- 512/  
 |   `-- MVTAD  
