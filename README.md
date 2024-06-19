@@ -17,10 +17,10 @@ You can easily get all pretrained models required by inference from Baidu cloud 
 Finally, these pretrained models should be organized as follows:  
 ./checkpoint/  
 |-- 512/  
-|   `-- MVTAD/  
-|   `-- BTAD/  
-|   `-- visa/  
+|   |-- MVTAD/  
+|   |-- BTAD/  
+|   |-- visa/  
 |-- 256/  
-|   `-- MVTAD/  
-|   `-- BTAD/  
-|   `-- visa/
+|   |-- MVTAD/  
+|   |-- BTAD/  
+|   |-- visa/
