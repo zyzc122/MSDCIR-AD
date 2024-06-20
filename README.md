@@ -13,7 +13,7 @@ torchvision=0.18.0
 tqdm=4.66.1
 
 # Download Pretrained Models
-You can easily get all pretrained models required by inference from Baidu cloud disk.
+You can easily get all pretrained models required by inference from Baidu cloud disk.  
 https://pan.baidu.com/s/194ZBlTi3Y2fAki0i1XFoeA  
 提取码：q4fg 
 
